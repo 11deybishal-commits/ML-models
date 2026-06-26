@@ -91,8 +91,8 @@ Please consider giving it a ⭐ to support my learning journey.
 
 AI • Machine Learning • Deep Learning • Data Science Enthusiast
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/11deybishal-commits
 
-LinkedIn: https://linkedin.com/in/YourLinkedIn
+LinkedIn: https://www.linkedin.com/in/bishal-dey11/
 
 ---
